@@ -1,0 +1,48 @@
+
+Configura‡Æo de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DESKTOP-UHV4VRT
+   Sufixo DNS prim rio . . . . . . . . . . . . : 
+   Tipo de n¢ . . . . . . . . . . . . . . . .  : misto
+   Roteamento de IP ativado. . . . . . . . . . : nÆo
+   Proxy WINS ativado. . . . . . . . . . . . . : nÆo
+
+Adaptador de Rede sem Fio ConexÆo Local* 9:
+
+   Estado da m¡dia. . . . . . . . . . . . . .  : m¡dia desconectada
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 84-1B-77-64-9A-2F
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio ConexÆo Local* 10:
+
+   Estado da m¡dia. . . . . . . . . . . . . .  : m¡dia desconectada
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 86-1B-77-64-9A-2E
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+
+Adaptador Ethernet Ponte de Rede:
+
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : Microsoft Network Adapter Multiplexor Driver
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 84-1B-77-64-9A-2E
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+   Endere‡o IPv6 . . . . . . . . . . : 2804:1264:cb00:300:e664:62e:6d61:cc17(Preferencial) 
+   Endere‡o IPv6 Tempor rio. . . . . . . . : 2804:1264:cb00:300:99b:6741:24d4:4616(Preferencial) 
+   Endere‡o IPv6 de link local . . . . . . . . : fe80::dd4:356d:48f9:3695%8(Preferencial) 
+   Endere‡o IPv4. . . . . . . .  . . . . . . . : 192.168.1.143(Preferencial) 
+   M scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   ConcessÆo Obtida. . . . . . . . . . . . . . : ter‡a-feira, 19 de setembro de 2023 20:17:03
+   ConcessÆo Expira. . . . . . . . . . . . . . : ter‡a-feira, 19 de setembro de 2023 22:30:16
+   Gateway PadrÆo. . . . . . . . . . . . . . . : fe80::c225:2fff:fe45:83e2%8
+                                                 192.168.1.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.1.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 363117421
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2B-9A-D9-DF-A4-BB-6D-7C-6A-87
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.1.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
