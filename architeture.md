@@ -1,7 +1,7 @@
 # Arquitetura de computadores 
 ## Aula 05 - 14/09/2023   ### Jomiscley lima
 
-#Arquitetura:
+####Arquitetura:
 
 A Arquitetura é um tipo de manifestação artística muito antiga e que reúne construções e/ou edificações que apresentam um propósito ou finalidade. Segundo a definição do arquiteto brasileiro Lúcio Costa:
 Diana apud Costa “Arquitetura é antes de mais nada construção, mas, construção concebida com o propósito primordial de ordenar e organizar o espaço para determinada finalidade e visando a determinada intenção.”
